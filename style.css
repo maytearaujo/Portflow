@@ -123,6 +123,18 @@ footer img{
 }
 
 footer p{
-  width: 10%;
+  width: 6%;
   margin-left: 3em;
+}
+
+.info{
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+}
+
+.info p{
+  width: 100%;
+  font-size: .7em;
+  opacity: .6;
 }
